@@ -4,4 +4,4 @@ project (segments-union-on-line)
 
 include(segments-union-on-line.cmake)
 
-SET_PROPERTY(TARGET main PROPERTY FOLDER "segments-union-on-line")
+SET_PROPERTY(TARGET segments-union-on-line PROPERTY FOLDER "segments-union-on-line")
