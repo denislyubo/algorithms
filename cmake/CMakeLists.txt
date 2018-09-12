@@ -12,3 +12,4 @@ set (CMAKE_SHARED_LINKER_FLAGS  "${CMAKE_SHARED_LINKER_FLAGS} -m64 -fPIC")
 
 add_subdirectory(geometry)
 add_subdirectory(strings)
+add_subdirectory(metaprogramming)
